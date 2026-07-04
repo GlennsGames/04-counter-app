@@ -101,3 +101,16 @@ button {
 #increase:active {
   transform: scale(0.95);
 }
+
+#reset {
+  background: #6c757d;
+  color: #F3F1ED;
+}
+
+#reset:hover {
+  background-color: #5a6268;
+}
+
+#reset:active {
+  transform: scale(0.95);
+}
